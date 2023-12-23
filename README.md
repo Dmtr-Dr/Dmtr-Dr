@@ -7,11 +7,9 @@ Hello, I'm Dmitry 👋
 How to reach me:
 💼 Telegram: https://t.me/dmtr_dr
 
-Статистика языков в репозиториях:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmtr-Dr&theme=solarized_dark)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmtr-Dr&theme=solarized_dark)
 
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dmtr-Dr&theme=solarized_dark)
