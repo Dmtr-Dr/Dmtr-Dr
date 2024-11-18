@@ -11,8 +11,8 @@ How to reach me:
 
 |Name|Description|Time|Status|
 |----|-----------|----|------|
-|💼[Generative design of aptamer sequences](https://github.com/ZinaidaKrasovskaya/Aptamer)|Generative design of aptamer sequences. Team project|Nov 2023 - actual|In progress|
-|💼[Analytics service]|Analytics service for investors. Team project|Sep 2023 - actual|In progress|
+|💼[Generative design of aptamer sequences](https://github.com/ZinaidaKrasovskaya/Aptamer)|Generative design of aptamer sequences. Team project|Nov 2023 - Jan 2024|Done|
+|💼[Analytics service]|Analytics service for investors. Team project|Sep 2023 - Jun 2024|Done|
 |💼[Molecule inhibitors](https://github.com/Dmtr-Dr/molecule_inhibitors)|Molecule inhibitors with neural network. Team project|Sep 2023|Done|
 |💼[Binary classifier](https://github.com/Dmtr-Dr/binary-classifier)|Binary classifier for hydrodynamic models. Team project|Apr 2023|Done|
 |💼[Telegram bot for prediction diagnoses](https://github.com/Dmtr-Dr/web-application-for-predicting-diagnoses)|Telegram bot for prediction diagnoses. Personal project|Sept 2022 - Jun 2023|Done|
